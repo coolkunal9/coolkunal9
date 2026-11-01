@@ -1,33 +1,81 @@
 # Kunal Prasad
 
-### 2026 B.Tech Information Technology Graduate | Frontend Development and Data Analytics
+### 2026 B.Tech Information Technology Graduate | Frontend Development & Data Analytics
 
-Based in Jaipur, Rajasthan, India. I’m interested in building responsive web interfaces and using data to answer practical questions.
+<p align="center">
+  <img src="assets/github-avatar.png" width="180" alt="Kunal Prasad - Anime-style developer avatar" />
+</p>
 
-[Portfolio](https://kunal-portfolio-vite.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/kunalprasad-dev/) · [GitHub](https://github.com/coolkunal9)
+<p align="center">
+  Building web experiences. Exploring data. Learning by creating.
+</p>
 
-## Focus
+<p align="center">
+  <a href="https://kunal-portfolio-vite.vercel.app/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/kunalprasad-dev/">LinkedIn</a> ·
+  <a href="https://github.com/coolkunal9">GitHub</a>
+</p>
 
-- **Frontend development:** React, JavaScript, HTML/CSS, Tailwind CSS
-- **Data analytics:** Excel, Google Sheets, data cleaning, spreadsheet formulas, Pivot Tables, basic SQL
-- **Application technologies used in projects:** Express.js, MongoDB, Jest, Supertest
+---
 
-## Selected projects
+## 👨‍💻 About Me
 
-### [State Stories](https://github.com/coolkunal9/state-stories)
+I'm a 2026 B.Tech Information Technology graduate based in Jaipur, Rajasthan, India. I'm interested in building responsive web interfaces and using data to answer practical questions.
+
+I enjoy working on real-world projects, exploring new technologies, and continuously improving my problem-solving skills.
+
+## 🎯 Areas of Focus
+
+- **Frontend Development:** React, JavaScript, HTML, CSS, Tailwind CSS
+- **Data Analytics:** Excel, Google Sheets, data cleaning, spreadsheet formulas, Pivot Tables, basic SQL
+- **Application Technologies:** Express.js, MongoDB, Jest, Supertest
+- **Tools:** Git, GitHub, VS Code, Postman
+
+## 🚀 Selected Projects
+
+### 1. State Stories
 
 A full-stack editorial application for exploring travel, culture, and heritage stories from Indian states.
 
 - React client and Express API backed by MongoDB
 - Search, account authentication, protected profiles, and reader comments
-- [Live application](https://state-stories.vercel.app/)
+- [Live Application](https://state-stories.vercel.app/)
+- [Source Code](https://github.com/coolkunal9/state-stories)
 
-### [Restaurant Expansion Screener](https://github.com/coolkunal9/restaurant-expansion-screener)
+### 2. Restaurant Expansion Screener
 
-A Google Sheets analysis of 9,551 raw restaurant records across 15 countries, using cleaning steps, formulas, pivot tables, and descriptive market comparisons. The cleaned sheet has 9,542 records; the difference is documented for follow-up. Findings are screening signals, not evidence of demand or profitability.
+A Google Sheets analysis of 9,551 raw restaurant records across 15 countries, using data-cleaning steps, formulas, pivot tables, and descriptive market comparisons.
 
-- [Published workbook view](https://docs.google.com/spreadsheets/d/e/2PACX-1vShjJaXHpAKQRjvNrDSSHYnelcwcL-ZKPluwVdYW0JfbqYQH-B-7fVR6jaYQyk-4VJPid_xZ3k2KAiV/pubhtml)
+- Cleaned dataset contains 9,542 records.
+- The nine-record difference is documented for follow-up.
+- Findings are screening signals, not proof of demand or profitability.
+- [Published Workbook](https://docs.google.com/spreadsheets/d/e/2PACX-1vShjJaXHpAKQRjvNrDSSHYnelcwcL-ZKPluwVdYW0JfbqYQH-B-7fVR6jaYQyk-4VJPid_xZ3k2KAiV/pubhtml)
+- [Source Code](https://github.com/coolkunal9/restaurant-expansion-screener)
 
-### [Portfolio](https://kunal-portfolio-vite.vercel.app/)
+### 3. Personal Portfolio
 
-React and Vite portfolio presenting project work, experience, and a data-analysis case study. [Source code](https://github.com/coolkunal9/kunal-portfolio-vite)
+A React and Vite portfolio presenting my project work, experience, and data-analysis case study.
+
+- [Live Portfolio](https://kunal-portfolio-vite.vercel.app/)
+- [Source Code](https://github.com/coolkunal9/kunal-portfolio-vite)
+
+## 📚 Currently Learning
+
+- SQL and practical data analysis
+- Data visualization
+- Frontend development and responsive UI
+- Problem-solving through hands-on projects
+
+## 🤝 Let's Connect
+
+I'm open to opportunities, internships, collaborations, and learning from other developers.
+
+- [LinkedIn](https://www.linkedin.com/in/kunalprasad-dev/)
+- [Portfolio](https://kunal-portfolio-vite.vercel.app/)
+- [GitHub](https://github.com/coolkunal9)
+
+---
+
+<p align="center">
+  <i>Keep learning. Keep building. Keep improving.</i>
+</p>
