@@ -3,7 +3,7 @@
 ### 2026 B.Tech Information Technology Graduate | Frontend Development & Data Analytics
 
 <p align="center">
-  <img src="assets/github-avatar.png" width="180" alt="Kunal Prasad - Anime-style developer avatar" />
+  <img src="assets/github-avatar.png" width="180" alt="Kunal Prasad - github-avatar Tech Icons.png" />
 </p>
 
 <p align="center">
