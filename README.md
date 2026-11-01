@@ -20,7 +20,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a 2026 B.Tech Information Technology graduate based in Jaipur, Rajasthan, India. I'm interested in building responsive web interfaces and using data to answer practical questions.
+I'm a 2026 B.Tech Information Technology graduate based in India and open to relocation across India. I'm interested in building responsive web interfaces and using data to answer practical questions.
 
 I enjoy working on real-world projects, exploring new technologies, and continuously improving my problem-solving skills.
 
